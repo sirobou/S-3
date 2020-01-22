@@ -1,0 +1,6 @@
+#include <stdio.h>
+int main(void)
+{
+printf("ƒ†[ƒU[–¼ st18088\n‚Ó‚è‚ª‚È ‚µ‚ç ‚Æ‚è ‚½ ‚¢‚¿\n–¼ ”’ ’¹ ‘¾ ˆê");
+return 0;
+}
