@@ -13,7 +13,6 @@ int main(void){
 
     scanf("%d",&k);
     for(i=1;i<k;i++){
-        printf("oyama\n");
         x = (double)rand()/RAND_MAX;
         y = (double)rand()/RAND_MAX;
         hold = x*x+y*y;
